@@ -5,12 +5,12 @@
 For this project we are making a webpage utilizing HTML and Javascript to display information relating to UFO sightings across the US. Working with Bootstrapp and css editing, we will make the page customizable and add a filter table to be able to sort UFO sightings based on date, city, state, country and shape.
 
 ### Software
-VS Code
-HTML
-JavaScript
-ECMAScript
-Bootstrap
-CSS
+VS Code \
+HTML \
+JavaScript \
+ECMAScript \
+Bootstrap \
+CSS \
 
 ## Results
 The filter table below lets you input data that will display the corresponding data that matches input. UFO sightings can be filtered by date, city, state, country and shape.
