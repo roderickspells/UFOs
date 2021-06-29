@@ -10,7 +10,7 @@ HTML \
 JavaScript \
 ECMAScript \
 Bootstrap \
-CSS \
+CSS
 
 ## Results
 The filter table below lets you input data that will display the corresponding data that matches input. UFO sightings can be filtered by date, city, state, country and shape.
